@@ -19,3 +19,7 @@ gradlew
 gradlew.bat
 local.properties
 settings.gradle
+.gradle/
+.idea/
+build/
+gradle/
