@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         //                                 V     layout.xml
         hiButton = (Button) findViewById(R.id.hiButton);
         //alter object
-        hiButton.setText("hello button");
+        hiButton.setText("hello button"); // Bad Practice
         hiButton.setTextColor(Color.BLUE);
 
     }
