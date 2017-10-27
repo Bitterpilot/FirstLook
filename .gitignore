@@ -5,7 +5,6 @@ app/build/
 app/libs/
 app/proguard-rules.pro
 app/src/androidTest/
-app/src/main/AndroidManifest.xml
 app/src/main/res/drawable/
 app/src/main/res/mipmap-hdpi/
 app/src/main/res/mipmap-mdpi/
